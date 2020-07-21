@@ -16,4 +16,4 @@ jobs:
     name:  MY-PC
     resourceType: VirtualMachine
     tags: web
-  strategy:
+
